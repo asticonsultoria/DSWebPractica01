@@ -1,6 +1,6 @@
 Hola mundo 
 
-Cambio gabriel
+Cambio Bryan
 
-Cambio en github 
+de forma local  
 
